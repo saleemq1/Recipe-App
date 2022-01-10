@@ -17,7 +17,7 @@
 
 ## Description
 
-<p>An app that shows different recipes according to the ingredient user inputs.</p>
+<p>An app that shows fetches recipes for a given ingredient.</p>
 
 ## Preview
 
